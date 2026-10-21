@@ -1,0 +1,4 @@
+[
+    { "id": 1, "title": "מהלאלהל", "author": "מיה קינן", "isAvailable": true, "loans": [] },
+    { "id": 2, "title": "דודי ואודי", "author": "שרה לאון", "isAvailable": true, "loans": [] }
+]

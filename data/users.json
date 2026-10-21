@@ -1,0 +1,4 @@
+[
+    { "id": 1, "name": "יונית", "email": "yonit@gmail.com", "password": "1234", "books": [] },
+    { "id": 2, "name": "משה", "email": "moshe@gmail.com", "password": "1234", "books": [] }
+]

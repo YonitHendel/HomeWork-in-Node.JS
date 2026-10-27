@@ -95,4 +95,4 @@ const getAllBooks = (req, res) => {
     });
 };                                                            
 
-module.exports = { getAllBooks, getBookById, addBook, updateBook, deleteBook, loanBook, returnBook };   // ← חדש
+module.exports = { getAllBooks, getBookById, addBook, updateBook, deleteBook, loanBook, returnBook }; 
